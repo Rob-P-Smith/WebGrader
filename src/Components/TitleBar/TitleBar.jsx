@@ -1,8 +1,8 @@
 import "./TitleBar.css";
-import canvasLogo from "../../assets/GRCLogo.png";
-import claudeLogo from "../../assets/claudeLogo.png";
-import chatGPTLogo from "../../assets/chatGPTLogo.png";
-import geminiLogo from "../../assets/geminiLogo.jpg";
+import canvasLogo from "./assets/GRCLogo.png";
+import claudeLogo from "./assets/claudeLogo.png";
+import chatGPTLogo from "./assets/chatGPTLogo.png";
+import geminiLogo from "./assets/geminiLogo.jpg";
 
 function TitleBar() {
   return (
