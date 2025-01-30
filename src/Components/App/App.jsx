@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="container">
       <div className="content">
-        <h1>Hello World!</h1>
-        <p>Testing Hot Reload.</p>
-        <button onClick={() => alert("Button clicked!")}>Click Me</button>
+        <h1>LLM Response Area</h1>
+        <p>Parse the JSON to text fields here</p>
+        <button onClick={() => alert("Button clicked!")}>Export</button>
       </div>
     </div>
   );

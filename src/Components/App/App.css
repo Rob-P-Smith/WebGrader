@@ -18,14 +18,17 @@ body {
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
   background-color: #2c882b;
   overflow: hidden;
   position: fixed;
 }
 
 .content {
-  padding: 20px;
+  width: 85%;
+  height: 70%;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 8px;
   background-color: #f8f9fa;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
